@@ -18,7 +18,7 @@ export default defineConfig({
       config: {
         backend: {
           name: 'git-gateway',
-          branch: 'master',
+          branch: 'main',
         },
         
         collections: [
