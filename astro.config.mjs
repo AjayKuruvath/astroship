@@ -20,7 +20,7 @@ export default defineConfig({
           name: 'git-gateway',
           branch: 'main',
         },
-        disableIdentityWidgetInjection: true,
+       // disableIdentityWidgetInjection: true,
         collections: [
           // Content collections
           {
